@@ -1,8 +1,8 @@
 package main
 
 import (
-	"basic/tcp/tcpClt"
-	"basic/tcp/tcpSer"
+	"github.com/AaronZheng815/golang4Beginner/tcp/tcpClt"
+	"github.com/AaronZheng815/golang4Beginner/tcp/tcpSer"
 	"fmt"
 	"flag"
 )
